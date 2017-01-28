@@ -1,0 +1,25 @@
+{
+    "name": "rabbit-project/rabbit-cms",
+    "description": "CMS fast developer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Erick Leao",
+            "email": "erickleao@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "require-dev": {
+        "rabbit-project/rabbit-core": "*",
+        "phpunit/phpunit": "^5.7"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}

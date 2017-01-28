@@ -1,0 +1,6 @@
+log4php:
+  enable: true
+  config: ./log4php_config.xml
+
+moduleDefault: main
+

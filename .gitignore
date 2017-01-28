@@ -1,0 +1,7 @@
+/vendor/
+.idea
+composer.lock
+phpunit.xml
+!/vendor/rabbit-project
+!/vendor/rabbit-project/*
+

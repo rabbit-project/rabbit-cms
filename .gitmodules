@@ -1,0 +1,3 @@
+[submodule "vendor/rabbit-project/rabbit-core"]
+	path = vendor/rabbit-project/rabbit-core
+	url = https://github.com/rabbit-project/rabbit-core.git
